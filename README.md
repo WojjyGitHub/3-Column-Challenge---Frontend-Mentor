@@ -6,4 +6,4 @@ This challenge is optimised for:
   and
 - laptop view @ 1440px
 
-See it here  
+See it here https://wojjygithub.github.io/3-Column-Challenge---Frontend-Mentor/
